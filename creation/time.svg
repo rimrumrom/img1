@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="54px" height="54px" viewBox="0 0 54 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>2B5433F3-3644-442B-A555-3AB57678E04F</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="0.0004 0 60 0 60 59.9999 0.0004 59.9999"></polygon>
+    </defs>
+    <g id="쿠캣마켓-icon-정리" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="쿠캣마켓-에디터-icon-정리-60x60" transform="translate(-297.000000, -1027.000000)">
+            <g id="Group-8" transform="translate(294.000000, 1024.000000)">
+                <polygon id="Fill-1" fill-opacity="0" fill="#FFFFFF" points="0 60 60 60 60 0.001 0 0.001"></polygon>
+                <g id="Group-7">
+                    <g id="Group-4">
+                        <mask id="mask-3" fill="white">
+                            <use xlink:href="#path-2"></use>
+                        </mask>
+                        <use id="Clip-3" fill-opacity="0" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                        <path d="M30.0004,6.73461226 C17.1711228,6.73461226 6.73511226,17.1714998 6.73511226,29.9999 C6.73511226,42.8283002 17.1711228,53.2651877 30.0004,53.2651877 C42.8288002,53.2651877 53.2648108,42.8283002 53.2648108,29.9999 C53.2648108,17.1714998 42.8288002,6.73461226 30.0004,6.73461226 M30.0004,56.3091703 C15.4934683,56.3091703 3.69112969,44.5068317 3.69112969,29.9999 C3.69112969,15.4929683 15.4934683,3.69062969 30.0004,3.69062969 C44.5064547,3.69062969 56.3096703,15.4929683 56.3096703,29.9999 C56.3096703,44.5068317 44.5064547,56.3091703 30.0004,56.3091703" id="Fill-2" fill="#EB5500" mask="url(#mask-3)"></path>
+                    </g>
+                    <path d="M17.8314855,41.0847849 C17.3017922,41.0847849 16.7896384,40.8102915 16.5081292,40.3174311 C16.0915658,39.5886644 16.3450117,38.6581932 17.0746555,38.2416297 L28.4779702,31.7257004 L28.4779702,11.8157216 C28.4779702,10.974702 29.1593803,10.2941688 30.0004,10.2941688 C30.8405427,10.2941688 31.5219528,10.974702 31.5219528,11.8157216 L31.5219528,32.6088149 C31.5219528,33.1551708 31.2290429,33.6594318 30.7545991,33.9312943 L18.5848076,40.8839574 C18.3471472,41.0207656 18.0875624,41.0847849 17.8314855,41.0847849" id="Fill-5" fill="#EB5500"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
